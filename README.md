@@ -1,6 +1,8 @@
 
-# Stroke-Prediction-
-#python #matplotlib #sns #logisticregression #randomforest
+# Stroke Prediction Data Science Project 
+
+## Description and more Informations about: 
+#python #matplotlib #sns #logisticregression #randomforest #health #search #medizin #surgery
 
 Dataset: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
@@ -28,7 +30,7 @@ You can see here below as an image version of the some code:
 ![s5](https://user-images.githubusercontent.com/60243643/211221811-d740cf18-dbd9-4a1c-add6-0ad3e5165a24.jpg)
 ![s12](https://user-images.githubusercontent.com/60243643/211221813-8d24d4d5-f28d-4b2b-ac9c-966b2074fbd4.jpg)
 
-*** I will commit on more about Random Forest Part in next days..
+
 
                                                           - Have a nice data science days! -
 
